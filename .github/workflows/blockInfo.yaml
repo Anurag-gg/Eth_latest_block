@@ -11,6 +11,9 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v2
+        with: 
+          persist-credentials : false
+          fetch-depth: 0
 
       - name: setup python
         uses: actions/setup-python@v2
@@ -33,7 +36,7 @@ jobs:
           git config --local user.name "Anurag-gg"
           git add -A
           git commit -m "update data" -a
-          
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
