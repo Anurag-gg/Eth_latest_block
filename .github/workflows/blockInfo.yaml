@@ -33,5 +33,9 @@ jobs:
           git config --local user.name "Anurag-gg"
           git add -A
           git commit -m "update data" -a
-          git push
           
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: ${{ github.ref }}
