@@ -1,20 +1,20 @@
-# CURRENT BLOCK NUMBER: 14725965
+# CURRENT BLOCK NUMBER: 14725995
 
-### baseFeePerGas: 29627047333
-### difficulty: 13731379839951956
-### extraData: 0x706f6f6c696e2e636f6d22aa008f56ed85afb7
-### gasLimit: 29970620
-### gasUsed: 29951161
-### hash: 0x637cc655adc8a098415b6b07e045a64e8e8487b38f85a2b7c2776e61724dcde5
-### miner: 0x2DaA35962A6D43EB54C48367b33d0B379C930E5e
-### mixHash: 0xa66ada0b52db2d02da17aa3bc2b47128794184efb4c55f9c1aedec1cd643b7ac
-### nonce: 0x9d3aa0249ec20087
-### number: 14725965
-### parentHash: 0x2d368d9bab9307251913974b4fc85a9fe0e41f8439945c8525afd1bf4f92ee7a
-### receiptsRoot: 0xe18933bd030700e1a2f1691931a503a89787f71456b741158f2e462bcc59fd0b
+### baseFeePerGas: 30537677928
+### difficulty: 13706025909781567
+### extraData: 0x657a696c2e6d65
+### gasLimit: 30000000
+### gasUsed: 14811478
+### hash: 0x0c3b5cdf47e3dba56b903abf87a85ee5cd1fd55dcd8ae15820dfca1c0062da2c
+### miner: 0xc730B028dA66EBB14f20e67c68DD809FBC49890D
+### mixHash: 0x2cf18dc86bbbd60c4e71f1ffe6b80f0d82e527f7628e19c458a2d754c3f67dc3
+### nonce: 0x60a565645b12c8ba
+### number: 14725995
+### parentHash: 0x3d27804103828f695c10be8bfa5fa22caeca0c3340e74afdb746d3f4b3940602
+### receiptsRoot: 0x1a290f92b43bc307ba10d8c00200d0f90f06a5c89201084e4f9ed0cf268f61d7
 ### sha3Uncles: 0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347
-### size: 137023
-### stateRoot: 0x61cb22d4c20a87f139020d9e2b80be66fd06160ec45594b8116089bb0ec23811
-### timestamp: 2022-05-06 21:43:55.484332
-### totalDifficulty: 48270812173958936519294
-### transactionsRoot: 0xebbde6744bb883f5852ccb2c64de031a35f63addfd1f3c3d1f800d3d8e635727
+### size: 70277
+### stateRoot: 0xd69f2f66c971f574acee32acfcb7b2323152a8e81ce243d46b04768e977a77c3
+### timestamp: 2022-05-06 21:51:42.894626
+### totalDifficulty: 48271223625251521957489
+### transactionsRoot: 0x03eb0d9f5e11337d36fcd7c812bdf1bfc7f334c4dd8f8280537c99dd555da332
