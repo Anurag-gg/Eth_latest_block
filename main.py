@@ -20,4 +20,4 @@ with open("README.md" , "w") as file:
             continue
         if isinstance(value , bytes):
             value = value.hex()
-        file.write(f'## {key}: {value}\n')
+        file.write(f'### {key}: {value}\n')
